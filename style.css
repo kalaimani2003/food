@@ -1,0 +1,70 @@
+nav{
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    
+}
+li,h2,ul{
+    
+    display: inline;
+}
+ul{
+margin-left: 55%;
+}
+li{
+    color: gray;
+
+}
+li:hover{
+    color: aliceblue;
+    cursor: pointer;
+}
+   
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+.s{
+    width: 60rem;
+    height: 2rem;
+    padding-left: 20px;
+
+}
+.search{
+    margin-top: 3rem;
+    text-align: center;
+    
+}
+
+    
+.image{
+    margin-top: 4rem;
+    text-align: center;
+}
+
+.food{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 300px;
+    margin-right: 1rem;
+    
+    
+}
+.food:hover{
+    background-color: black;
+    color: aliceblue;
+}
+
+.about{
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.contact{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
